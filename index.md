@@ -6,4 +6,4 @@ This is a test sentence below a Heading 1.
 
 This is a test sentence below a Heading 2. 
 
-[https://tactiletimes.org][Test Tactile Times link]
+[Test Tactile Times link](https://tactiletimes.org)
