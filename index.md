@@ -5,3 +5,5 @@ This is a test sentence below a Heading 1.
 ## A test h2
 
 This is a test sentence below a Heading 2. 
+
+[https://tactiletimes.org][Test Tactile Times link]
